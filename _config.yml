@@ -1,0 +1,28 @@
+name: T2M Capital
+favicon: null
+layout_spectrum: 0.12138604349456728
+typography_spectrum: 0.15828127041459084
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2736790212802589
+  lightness: 0.7499377287458628
+  saturation: 0.4321845828089863
+  rhythmicContrast: 0.33707743673585355
+purpose: []
